@@ -1,0 +1,23 @@
+{
+  "gettoken": {
+    "case_name": "gettoken",
+    "json": {
+      "username": "15170899539",
+      "password": "Lb123456"
+    }
+  },
+    "gettoken2": {
+    "case_name": "API_Test_gettoken",
+    "json": {
+      "username": "15057151416",
+      "password": "123456789"
+    }
+  },
+  "gettoken_cl": {
+    "case_name": "API_Test_gettoken",
+    "json": {
+      "username": "17612168063",
+      "password": "Caoleehouse123"
+    }
+  }
+}

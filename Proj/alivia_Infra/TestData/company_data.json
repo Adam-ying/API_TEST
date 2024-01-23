@@ -1,0 +1,34 @@
+{
+  "bindCompanyByUserName": {
+    "case_name":"bindCompanyByUserName",
+    "json": {
+      "username": "15170899538",
+      "company_id": "c53ac779-662f-4e2b-a63d-5fd351f0ef51",
+      "role_ids": [
+        1922
+      ],
+      "org_ids": [
+        112751
+      ]
+    }
+  },
+  "removeUserFromCompany": {
+    "case_name": "removeUserFromCompany",
+    "json": {
+      "platform": 1,
+      "company_id": "c53ac779-662f-4e2b-a63d-5fd351f0ef51",
+      "uid": "3605551110294600192"
+    }
+  },
+  "getUserCompanyExtList": {
+    "case_name": "getUserCompanyExtList",
+    "json":{
+      "data": {
+        "offset": 0,
+        "limit": 100,
+        "user_id": "3605324630795173888",
+        "with_company_detail": true
+      }
+    }
+  }
+}
